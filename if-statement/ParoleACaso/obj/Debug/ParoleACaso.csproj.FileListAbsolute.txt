@@ -1,0 +1,8 @@
+C:\Users\alberto.slavica\source\repos\ParoleACaso\ParoleACaso\bin\Debug\ParoleACaso.exe.config
+C:\Users\alberto.slavica\source\repos\ParoleACaso\ParoleACaso\bin\Debug\ParoleACaso.exe
+C:\Users\alberto.slavica\source\repos\ParoleACaso\ParoleACaso\bin\Debug\ParoleACaso.pdb
+C:\Users\alberto.slavica\source\repos\ParoleACaso\ParoleACaso\obj\Debug\ParoleACaso.csproj.AssemblyReference.cache
+C:\Users\alberto.slavica\source\repos\ParoleACaso\ParoleACaso\obj\Debug\ParoleACaso.csproj.SuggestedBindingRedirects.cache
+C:\Users\alberto.slavica\source\repos\ParoleACaso\ParoleACaso\obj\Debug\ParoleACaso.csproj.CoreCompileInputs.cache
+C:\Users\alberto.slavica\source\repos\ParoleACaso\ParoleACaso\obj\Debug\ParoleACaso.exe
+C:\Users\alberto.slavica\source\repos\ParoleACaso\ParoleACaso\obj\Debug\ParoleACaso.pdb
