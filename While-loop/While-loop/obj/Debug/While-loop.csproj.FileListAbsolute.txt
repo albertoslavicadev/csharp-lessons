@@ -1,0 +1,8 @@
+C:\Users\alberto.slavica\source\repos\csharp-lessons\While-loop\While-loop\bin\Debug\While-loop.exe.config
+C:\Users\alberto.slavica\source\repos\csharp-lessons\While-loop\While-loop\bin\Debug\While-loop.exe
+C:\Users\alberto.slavica\source\repos\csharp-lessons\While-loop\While-loop\bin\Debug\While-loop.pdb
+C:\Users\alberto.slavica\source\repos\csharp-lessons\While-loop\While-loop\obj\Debug\While-loop.csproj.AssemblyReference.cache
+C:\Users\alberto.slavica\source\repos\csharp-lessons\While-loop\While-loop\obj\Debug\While-loop.csproj.SuggestedBindingRedirects.cache
+C:\Users\alberto.slavica\source\repos\csharp-lessons\While-loop\While-loop\obj\Debug\While-loop.csproj.CoreCompileInputs.cache
+C:\Users\alberto.slavica\source\repos\csharp-lessons\While-loop\While-loop\obj\Debug\While-loop.exe
+C:\Users\alberto.slavica\source\repos\csharp-lessons\While-loop\While-loop\obj\Debug\While-loop.pdb

@@ -1,0 +1,8 @@
+C:\Users\alberto.slavica\source\repos\csharp-lessons\If-Statement-cont\If-Statement-cont\bin\Debug\If-Statement-cont.exe.config
+C:\Users\alberto.slavica\source\repos\csharp-lessons\If-Statement-cont\If-Statement-cont\bin\Debug\If-Statement-cont.exe
+C:\Users\alberto.slavica\source\repos\csharp-lessons\If-Statement-cont\If-Statement-cont\bin\Debug\If-Statement-cont.pdb
+C:\Users\alberto.slavica\source\repos\csharp-lessons\If-Statement-cont\If-Statement-cont\obj\Debug\If-Statement-cont.csproj.AssemblyReference.cache
+C:\Users\alberto.slavica\source\repos\csharp-lessons\If-Statement-cont\If-Statement-cont\obj\Debug\If-Statement-cont.csproj.SuggestedBindingRedirects.cache
+C:\Users\alberto.slavica\source\repos\csharp-lessons\If-Statement-cont\If-Statement-cont\obj\Debug\If-Statement-cont.csproj.CoreCompileInputs.cache
+C:\Users\alberto.slavica\source\repos\csharp-lessons\If-Statement-cont\If-Statement-cont\obj\Debug\If-Statement-cont.exe
+C:\Users\alberto.slavica\source\repos\csharp-lessons\If-Statement-cont\If-Statement-cont\obj\Debug\If-Statement-cont.pdb
