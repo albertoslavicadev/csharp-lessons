@@ -1,0 +1,8 @@
+C:\Users\alber\source\repos\Methods\Methods\bin\Debug\Methods.exe.config
+C:\Users\alber\source\repos\Methods\Methods\bin\Debug\Methods.exe
+C:\Users\alber\source\repos\Methods\Methods\bin\Debug\Methods.pdb
+C:\Users\alber\source\repos\Methods\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+C:\Users\alber\source\repos\Methods\Methods\obj\Debug\Methods.csproj.SuggestedBindingRedirects.cache
+C:\Users\alber\source\repos\Methods\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\alber\source\repos\Methods\Methods\obj\Debug\Methods.exe
+C:\Users\alber\source\repos\Methods\Methods\obj\Debug\Methods.pdb

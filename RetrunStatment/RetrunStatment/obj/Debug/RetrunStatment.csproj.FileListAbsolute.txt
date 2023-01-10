@@ -1,0 +1,8 @@
+C:\Users\alber\source\repos\RetrunStatment\RetrunStatment\bin\Debug\RetrunStatment.exe.config
+C:\Users\alber\source\repos\RetrunStatment\RetrunStatment\bin\Debug\RetrunStatment.exe
+C:\Users\alber\source\repos\RetrunStatment\RetrunStatment\bin\Debug\RetrunStatment.pdb
+C:\Users\alber\source\repos\RetrunStatment\RetrunStatment\obj\Debug\RetrunStatment.csproj.AssemblyReference.cache
+C:\Users\alber\source\repos\RetrunStatment\RetrunStatment\obj\Debug\RetrunStatment.csproj.SuggestedBindingRedirects.cache
+C:\Users\alber\source\repos\RetrunStatment\RetrunStatment\obj\Debug\RetrunStatment.csproj.CoreCompileInputs.cache
+C:\Users\alber\source\repos\RetrunStatment\RetrunStatment\obj\Debug\RetrunStatment.exe
+C:\Users\alber\source\repos\RetrunStatment\RetrunStatment\obj\Debug\RetrunStatment.pdb
