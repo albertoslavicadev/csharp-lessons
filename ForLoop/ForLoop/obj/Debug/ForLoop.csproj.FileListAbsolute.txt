@@ -1,0 +1,8 @@
+C:\Users\alberto.slavica\source\repos\csharp-lessons\ForLoop\ForLoop\bin\Debug\ForLoop.exe.config
+C:\Users\alberto.slavica\source\repos\csharp-lessons\ForLoop\ForLoop\bin\Debug\ForLoop.exe
+C:\Users\alberto.slavica\source\repos\csharp-lessons\ForLoop\ForLoop\bin\Debug\ForLoop.pdb
+C:\Users\alberto.slavica\source\repos\csharp-lessons\ForLoop\ForLoop\obj\Debug\ForLoop.csproj.AssemblyReference.cache
+C:\Users\alberto.slavica\source\repos\csharp-lessons\ForLoop\ForLoop\obj\Debug\ForLoop.csproj.SuggestedBindingRedirects.cache
+C:\Users\alberto.slavica\source\repos\csharp-lessons\ForLoop\ForLoop\obj\Debug\ForLoop.csproj.CoreCompileInputs.cache
+C:\Users\alberto.slavica\source\repos\csharp-lessons\ForLoop\ForLoop\obj\Debug\ForLoop.exe
+C:\Users\alberto.slavica\source\repos\csharp-lessons\ForLoop\ForLoop\obj\Debug\ForLoop.pdb

@@ -1,0 +1,8 @@
+C:\Users\alberto.slavica\source\repos\csharp-lessons\GuessingGame\GuessingGame\bin\Debug\GuessingGame.exe.config
+C:\Users\alberto.slavica\source\repos\csharp-lessons\GuessingGame\GuessingGame\bin\Debug\GuessingGame.exe
+C:\Users\alberto.slavica\source\repos\csharp-lessons\GuessingGame\GuessingGame\bin\Debug\GuessingGame.pdb
+C:\Users\alberto.slavica\source\repos\csharp-lessons\GuessingGame\GuessingGame\obj\Debug\GuessingGame.csproj.AssemblyReference.cache
+C:\Users\alberto.slavica\source\repos\csharp-lessons\GuessingGame\GuessingGame\obj\Debug\GuessingGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\alberto.slavica\source\repos\csharp-lessons\GuessingGame\GuessingGame\obj\Debug\GuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\alberto.slavica\source\repos\csharp-lessons\GuessingGame\GuessingGame\obj\Debug\GuessingGame.exe
+C:\Users\alberto.slavica\source\repos\csharp-lessons\GuessingGame\GuessingGame\obj\Debug\GuessingGame.pdb
