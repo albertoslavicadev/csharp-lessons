@@ -1,0 +1,8 @@
+C:\Users\alberto.slavica\source\repos\csharp-lessons\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+C:\Users\alberto.slavica\source\repos\csharp-lessons\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+C:\Users\alberto.slavica\source\repos\csharp-lessons\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+C:\Users\alberto.slavica\source\repos\csharp-lessons\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.AssemblyReference.cache
+C:\Users\alberto.slavica\source\repos\csharp-lessons\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.SuggestedBindingRedirects.cache
+C:\Users\alberto.slavica\source\repos\csharp-lessons\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\alberto.slavica\source\repos\csharp-lessons\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+C:\Users\alberto.slavica\source\repos\csharp-lessons\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb

@@ -1,0 +1,8 @@
+C:\Users\alberto.slavica\source\repos\csharp-lessons\TwoDimensionalArray\TwoDimensionalArray\bin\Debug\TwoDimensionalArray.exe.config
+C:\Users\alberto.slavica\source\repos\csharp-lessons\TwoDimensionalArray\TwoDimensionalArray\bin\Debug\TwoDimensionalArray.exe
+C:\Users\alberto.slavica\source\repos\csharp-lessons\TwoDimensionalArray\TwoDimensionalArray\bin\Debug\TwoDimensionalArray.pdb
+C:\Users\alberto.slavica\source\repos\csharp-lessons\TwoDimensionalArray\TwoDimensionalArray\obj\Debug\TwoDimensionalArray.csproj.AssemblyReference.cache
+C:\Users\alberto.slavica\source\repos\csharp-lessons\TwoDimensionalArray\TwoDimensionalArray\obj\Debug\TwoDimensionalArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\alberto.slavica\source\repos\csharp-lessons\TwoDimensionalArray\TwoDimensionalArray\obj\Debug\TwoDimensionalArray.csproj.CoreCompileInputs.cache
+C:\Users\alberto.slavica\source\repos\csharp-lessons\TwoDimensionalArray\TwoDimensionalArray\obj\Debug\TwoDimensionalArray.exe
+C:\Users\alberto.slavica\source\repos\csharp-lessons\TwoDimensionalArray\TwoDimensionalArray\obj\Debug\TwoDimensionalArray.pdb
